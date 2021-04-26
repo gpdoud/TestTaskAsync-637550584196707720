@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8BF8A00D-EA35-433F-BF44-3058853CF063}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestTaskAsync PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestTaskAsync/Program.cs">
+    <Files>
+      <File FileName="TestTaskAsync/Program.cs" Line="13" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestTaskAsync" expanded="True">
+            <Node name="TestTaskAsync" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/TestTaskAsync.deps.json
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/TestTaskAsync.runtimeconfig.json
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/TestTaskAsync.runtimeconfig.dev.json
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/TestTaskAsync.dll
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/ref/TestTaskAsync.dll
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/bin/Debug/net5.0/TestTaskAsync.pdb
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.csprojAssemblyReference.cache
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.AssemblyInfoInputs.cache
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.AssemblyInfo.cs
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.csproj.CoreCompileInputs.cache
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.dll
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/ref/TestTaskAsync.dll
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.pdb
+/Users/gpdoud/Repos/TestTaskAsync/TestTaskAsync/obj/Debug/net5.0/TestTaskAsync.genruntimeconfig.cache
